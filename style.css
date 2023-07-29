@@ -1,0 +1,23 @@
+.MAIN-FB{
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+body{
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.TG-ACC{
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+.MENU{
+  margin-top: 5rem;
+  margin-left: 5rem;
+  padding: 1rem;
+  font-size: 30px;
+  border-radius: 20px;
+}
+.container {
+    position: absolute;
+    bottom: 0;
+}
